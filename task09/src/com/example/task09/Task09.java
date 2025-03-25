@@ -18,5 +18,5 @@ public class Task09 {
         System.out.println(solution());
 
     }123121
-
+12312
 }
