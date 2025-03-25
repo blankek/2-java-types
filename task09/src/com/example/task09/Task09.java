@@ -17,6 +17,6 @@ public class Task09 {
 
         System.out.println(solution());
 1
-    }12312
+    }123121231
 
 }
