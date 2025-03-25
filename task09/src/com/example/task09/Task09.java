@@ -16,7 +16,7 @@ public class Task09 {
         // Здесь вы можете вручную протестировать ваше решение
 
         System.out.println(solution());
-
-    }
+1
+    }12312
 
 }
